@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: api
+  datasource:
+    url:
+    username:
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+
+logging:
+  level:
+    root: info
+    web: info
+    sql: info

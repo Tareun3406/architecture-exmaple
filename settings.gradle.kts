@@ -1,0 +1,1 @@
+rootProject.name = "d-sket-api-example"
